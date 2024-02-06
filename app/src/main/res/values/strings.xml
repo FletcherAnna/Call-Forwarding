@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Call Forwarding</string>
+    <string name="action_settings">Settings</string>
+    <string name = "preferences_file_key">com.e.callforwarding.contacts</string>
+</resources>
+
+
+
